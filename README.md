@@ -1,9 +1,9 @@
-# 📦 Component Name - changelog
+# 📦 Circle Loader - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Component Name component.
+Use this repository to report bugs and get notified about changes affecting the Circle Loader component.
 
-- [Live Demo](https://codyhouse.co/ds/components/app/component-name)
-- [Info Page](https://codyhouse.co/ds/components/info/component-name)
+- [Live Demo](https://codyhouse.co/ds/components/app/circle-loader)
+- [Info Page](https://codyhouse.co/ds/components/info/circle-loader)
 
 Before reporting a bug, please make sure to check the 'info page' of the component. 
 
